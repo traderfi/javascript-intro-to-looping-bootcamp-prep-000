@@ -11,9 +11,11 @@ function forLoop(array) {
 }
 
 function whileLoop(n) {
-  //  while() {
-
-  //  }
+    while() {
+      console.log();
+      
+    }
+    return "done";
 }
 
 function doWhileLoop(array) {
