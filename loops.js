@@ -23,7 +23,7 @@ function whileLoop(n) {
       console.log(n);
       n--
       if(n == 0) {
-        
+
       }
     }
     return n;
