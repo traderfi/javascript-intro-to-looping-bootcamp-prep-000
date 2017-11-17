@@ -10,6 +10,14 @@ function forLoop(array) {
   return array;
 }
 
+
+
+
+
+
+
+
+
 function whileLoop(n) {
     while( n > 0) {
       console.log(n);
@@ -18,12 +26,11 @@ function whileLoop(n) {
         n = "done";
       }
     }
-    return console.log("done");
+    return n;
 }
 
 function doWhileLoop(array) {
-    while (maybeTrue()) {
-
-
-  }
+    do {
+      
+    } while ();
 }
