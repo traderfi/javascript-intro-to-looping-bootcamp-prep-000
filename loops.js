@@ -20,7 +20,7 @@ function whileLoop(n) {
       console.log(n);
       n--
       if(n == 0) {
-        n = 'done';
+      console.log(n);
       }
     }
     return console.log(n);
