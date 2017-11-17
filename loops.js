@@ -10,11 +10,6 @@ function forLoop(array) {
   return array;
 }
 
-
-
-
-
-
 function whileLoop(n) {
     while( n > 0) {
       console.log(n);
@@ -32,5 +27,5 @@ function whileLoop(n) {
 function doWhileLoop(array) {
     do {
 
-    } while (n= 0);
+    } while (array.length > 0 && maybeTrue());
 }
