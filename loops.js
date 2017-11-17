@@ -26,7 +26,7 @@ function whileLoop(n) {
         console.log('done');
       }
     }
-    return n;
+    return console.log('done');
 }
 
 function doWhileLoop(array) {
